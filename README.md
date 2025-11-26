@@ -1,6 +1,6 @@
 ## RIDE-X :  RIDE MANAGEMENT APP
 
-##### Live Frontend Link : 
+##### Live Frontend Link : https://assingment6.vercel.app/
 
 ##### Live Backend Link : 
 
